@@ -1,3 +1,5 @@
 function hello() {
-    alert('hello World');
+    prompt('how are you?', 'i am fine');
+    let mood = 'welcome to our site';
+    document.write(mood);
 }
